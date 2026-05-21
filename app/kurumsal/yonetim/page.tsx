@@ -12,10 +12,10 @@ export default function YonetimKurulu() {
   };
 
   const yonetimListesi = [
+    { unvan: "Kulüp Başkan Yardımcısı", isim: "Hüseyin Keç", foto: "uye-1.webp" },
     { unvan: "Kulüp Başkan Yardımcısı", isim: "Sevil Durgun", foto: "baskan-yardimcisi.webp" },
-    { unvan: "Sayman", isim: "İzzettin Akıncı", foto: "sayman.webp" },
     { unvan: "Sekreter", isim: "Cem Köymen", foto: "sekreter.webp" },
-    { unvan: "Yönetim Kurulu Üyesi", isim: "Hüseyin Keç", foto: "uye-1.webp" }
+    { unvan: "Sayman", isim: "İzzettin Akıncı", foto: "sayman.webp" }
   ];
 
   return (

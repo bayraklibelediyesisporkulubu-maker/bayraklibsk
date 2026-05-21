@@ -15,8 +15,8 @@ const IletisimPage = () => {
             <div className="w-16 h-16 bg-red-50 text-red-600 rounded-full flex items-center justify-center mx-auto mb-6 text-2xl">📍</div>
             <h3 className="text-xl font-bold text-gray-900 uppercase mb-4">Adresimiz</h3>
             <p className="text-gray-600 font-medium leading-relaxed">
-              Osmangazi, 592. Sk. No:1 D:1C<br />
-              35535 Bayraklı / İzmir
+              Manavkuyu Mah. Fatih Sultan Mehmet Cad.<br />
+              No: 65/A Bayraklı / İzmir / Türkiye
             </p>
           </div>
 
@@ -32,8 +32,8 @@ const IletisimPage = () => {
           <div className="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 text-center transition-all hover:shadow-md">
             <div className="w-16 h-16 bg-red-50 text-red-600 rounded-full flex items-center justify-center mx-auto mb-6 text-2xl">✉️</div>
             <h3 className="text-xl font-bold text-gray-900 uppercase mb-4">E-Posta</h3>
-            <a href="mailto:bayraklibelediyespr@gmail.com" className="text-gray-600 font-medium hover:text-red-600 transition-colors break-all">
-              bayraklibelediyespr@gmail.com
+            <a href="mailto:bayraklibelediyesisporkulubu@gmail.com" className="text-gray-600 font-medium hover:text-red-600 transition-colors break-all">
+              bayraklibelediyesisporkulubu@gmail.com
             </a>
           </div>
         </div>
@@ -68,7 +68,7 @@ const IletisimPage = () => {
 
           <div className="rounded-2xl shadow-sm border border-gray-100 overflow-hidden h-[400px] lg:h-auto min-h-[400px]">
             <iframe 
-              src="https://maps.google.com/maps?q=Osmangazi,+592.+Sk.+No:1+D:1C,+35535+Bayrakl%C4%B1%2F%C4%B0zmir&t=&z=15&ie=UTF8&iwloc=&output=embed"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3123.639434857419!2d27.1706691!3d38.4613271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b962b9a7164cc7%3A0x6b7724213705bf1d!2sManavkuyu%2C%20Fatih%20Sultan%20Mehmet%20Cd.%20No%3A65%2FA%2C%2035535%20Bayrakl%C4%B1%2F%C4%B0zmir!5e0!3m2!1str!2str!4v1716223500000!5m2!1str!2str"
               width="100%" 
               height="100%" 
               style={{ border: 0 }} 

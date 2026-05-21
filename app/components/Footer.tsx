@@ -39,7 +39,7 @@ export default function Footer() {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start space-x-3">
                 <span className="text-red-500 mt-0.5">📍</span>
-                <span>Osmangazi, 592. Sk. No:1 D:1C<br/>35535 Bayraklı / İzmir</span>
+                <span>Manavkuyu Mah. Fatih Sultan Mehmet Cad.<br/>No: 65/A Bayraklı / İzmir / Türkiye</span>
               </li>
               <li className="flex items-center space-x-3">
                 <span className="text-red-500">📞</span>
@@ -47,7 +47,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center space-x-3">
                 <span className="text-red-500">✉️</span>
-                <a href="mailto:bayraklibelediyespr@gmail.com" className="hover:text-red-500 transition-colors">bayraklibelediyespr@gmail.com</a>
+                <a href="mailto:bayraklibelediyesisporkulubu@gmail.com" className="hover:text-red-500 transition-colors">bayraklibelediyesisporkulubu@gmail.com</a>
               </li>
             </ul>
           </div>
